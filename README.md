@@ -44,6 +44,8 @@
 
     https://drive.google.com/file/d/16b_84dT9wq-CEZrKeR5cvN39zGCC7np9/view?usp=sharing
 
+    Place it into the main directory.
+
 ## Inference
 - Run the demo.py
     ```
