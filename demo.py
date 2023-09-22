@@ -935,11 +935,36 @@ def get_arcface(rimg, shape):
 
     return img_crop, img_shape, LM
 
+## GitHub for demo images 
+
 img_crop = cv2.imread('./for_demo/0000375.jpg')
 img_crop_2 = cv2.imread('./for_demo/0000425.jpg')
 img_crop_3 = cv2.imread('./for_demo/0005000.jpg')
 img_crop_4 = cv2.imread('./for_demo/0002525.jpg')
 
+
+## Insider images
+'''
+img_crop = cv2.imread('./Insider_test/Charles.jpg')
+img_crop_2 = cv2.imread('./Insider_test/Caber.jpg')
+img_crop_3 = cv2.imread('./Insider_test/Michael.png')
+img_crop_4 = cv2.imread('./Insider_test/ryan.jpg')
+'''
+
+## Forein test1 images
+'''
+img_crop = cv2.imread('./Forein_test1/apple.jpg')
+img_crop_2 = cv2.imread('./Forein_test1/bill_gates.jpg')
+img_crop_3 = cv2.imread('./Forein_test1/harry.jpg')
+img_crop_4 = cv2.imread('./Forein_test1/obama.jpg')
+'''
+## Forein test2 images
+'''
+img_crop = cv2.imread('./Forein_test2/honor.jpg')
+img_crop_2 = cv2.imread('./Forein_test2/huan.jpg')
+img_crop_3 = cv2.imread('./Forein_test2/me.jpg')
+img_crop_4 = cv2.imread('./Forein_test2/new.jpg')
+'''
 
 img_crop = cv2.resize(img_crop, (256, 256))
 img_crop_2 = cv2.resize(img_crop_2, (256, 256))
