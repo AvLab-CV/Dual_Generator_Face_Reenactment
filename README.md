@@ -30,7 +30,7 @@
     pip install -r requirement.txt
     ```
 
-## Download models
+## Download Inference models
 - Main model
 
     https://drive.google.com/file/d/1gHK7NObVP1c1fVsVGdZe6t21CmmtarVS/view?usp=sharing
@@ -51,6 +51,17 @@
     ```
     python demo.py
     ```
+# Validation
+## Download the Test Lists.
+Please download the test lists for each dataset. Note that you will need to change the paths accordingly.
+[GDrive]()
+## Validation Pretrained Models
+The pretrained models for MPIE, Voxceleb1, and Voxceleb2 can be downloaded from the following links.
+|Pretrained Models|
+|---|
+|[MPIE]()|
+|[Voxceleb1]()|
+|[Voxceleb2]()|
 
 ## Details of implementataion
 
