@@ -51,10 +51,7 @@
     ```
     python demo.py
     ```
-# Validation
-## Download the Test Lists.
-Please download the test lists for each dataset. Note that you will need to change the paths accordingly.
-[GDrive](https://drive.google.com/drive/folders/1ladLB-ZU_Rw4J0at3Jss7VTUp8vauvCR?usp=sharing)
+    
 ## Validation Pretrained Models
 The pretrained models for MPIE, Voxceleb1, and Voxceleb2 can be downloaded from the following links.
 |Pretrained Models|
