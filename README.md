@@ -59,9 +59,9 @@ Please download the test lists for each dataset. Note that you will need to chan
 The pretrained models for MPIE, Voxceleb1, and Voxceleb2 can be downloaded from the following links.
 |Pretrained Models|
 |---|
-|[MPIE]()|
-|[Voxceleb1]()|
-|[Voxceleb2]()|
+|[MPIE](https://drive.google.com/drive/folders/12Ub__iaeLZL0Nr5Yl3-_YGX9k2d2RR6n?usp=sharing)|
+|[Voxceleb1](https://drive.google.com/drive/folders/1r4LzIRWI7Ic_QkB0PUG7yyf3VqJEQ79f?usp=sharing)|
+|[Voxceleb2](https://drive.google.com/drive/folders/1UIqC4y8g4CTYozSuMPCMcLTttuX7S5sC?usp=sharing)|
 
 ## Details of implementataion
 
